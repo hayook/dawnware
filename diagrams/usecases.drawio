@@ -1,0 +1,93 @@
+<mxfile host="Electron" modified="2024-04-30T00:22:11.058Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="ukUxutOxilQ6OKdT7ilT" version="23.1.5" type="device">
+  <diagram name="Page-1" id="lQxLQl3zekRtBq-5eqVQ">
+    <mxGraphModel dx="880" dy="958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jflEDgTrK-iR_ibRTlid-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jflEDgTrK-iR_ibRTlid-1" target="jflEDgTrK-iR_ibRTlid-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jflEDgTrK-iR_ibRTlid-1" target="jflEDgTrK-iR_ibRTlid-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jflEDgTrK-iR_ibRTlid-1" target="jflEDgTrK-iR_ibRTlid-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Dawnware&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="119" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jflEDgTrK-iR_ibRTlid-2" target="jflEDgTrK-iR_ibRTlid-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jflEDgTrK-iR_ibRTlid-2" target="jflEDgTrK-iR_ibRTlid-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jflEDgTrK-iR_ibRTlid-2" target="jflEDgTrK-iR_ibRTlid-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jflEDgTrK-iR_ibRTlid-2" target="jflEDgTrK-iR_ibRTlid-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jflEDgTrK-iR_ibRTlid-2" target="jflEDgTrK-iR_ibRTlid-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Manage inventory&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="24" width="146" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-4" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Manage prodicts&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-75" width="146" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-6" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Manage unites&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="24" width="146" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="jflEDgTrK-iR_ibRTlid-6" parent="1" source="jflEDgTrK-iR_ibRTlid-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="533" y="-19" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-8" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Manage categories&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="117" width="146" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-10" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Manage barcodes&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="167" width="146" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-12" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Manage recipes&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-25" width="146" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-15" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Manage sales&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="235" width="146" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jflEDgTrK-iR_ibRTlid-17" target="jflEDgTrK-iR_ibRTlid-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.61;exitY=0.974;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jflEDgTrK-iR_ibRTlid-17" target="jflEDgTrK-iR_ibRTlid-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-17" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Manage Sales&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="280" width="146" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-21" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Manage customers&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="614" y="328" width="146" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-22" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Manage brands&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="71" width="146" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-27" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Manage purchases&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="396" width="146" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="jflEDgTrK-iR_ibRTlid-30" target="jflEDgTrK-iR_ibRTlid-27" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.61;exitY=0.974;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="jflEDgTrK-iR_ibRTlid-30" target="jflEDgTrK-iR_ibRTlid-31" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-30" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Manage purchases&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="441" width="146" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jflEDgTrK-iR_ibRTlid-31" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Manage suppliers&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="614" y="489" width="146" height="39" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
