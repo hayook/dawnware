@@ -149,3 +149,8 @@ Users have the ability view the list of purchases with some stats, edit and dele
   <img src="./sketch/purchases-list.png" alt="1">
 </div>
 
+## Profits
+
+<div style="text-align:center">
+  <img src="./sketch/profits.png" alt="1">
+</div>
